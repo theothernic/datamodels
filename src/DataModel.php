@@ -3,9 +3,10 @@
 
     abstract class DataModel
     {
-        public function __construct(mixed $data)
+        public function __construct(mixed $data = null)
         {
-            $this->hydrate($data);
+            if ($data)
+                $this->hydrate($data);
         }
 
         protected function hydrate(mixed $data): void
