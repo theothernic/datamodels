@@ -9,5 +9,16 @@
             'description' => ''
         ];
 
-        public array $message = [];
+        public array $message = [
+            'type' => null,
+            'text' => null
+        ];
+
+        public function hasMessage(): bool
+        {
+            return (isset($this->message) && !empty($this->message['type'])
+                && !empty($this->message['text']));
+        }
+
+
     }
