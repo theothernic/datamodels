@@ -7,4 +7,6 @@
             'keywords' => '',
             'description' => ''
         ];
+
+        public array $message = [];
     }
