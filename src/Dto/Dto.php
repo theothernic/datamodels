@@ -1,7 +1,7 @@
 <?php
-    namespace Theothernic\Datamodels\Dto;
+    namespace Bearlovescode\Datamodels\Dto;
 
-    use Theothernic\Datamodels\DataModel;
+    use Bearlovescode\Datamodels\DataModel;
 
     abstract class Dto extends DataModel
     {

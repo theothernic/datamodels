@@ -1,8 +1,8 @@
 <?php
-    namespace Theothernic\Datamodels\View\Page;
+    namespace Bearlovescode\Datamodels\View\Page;
 
 
-    use Theothernic\Datamodels\View\PageViewModel;
+    use Bearlovescode\Datamodels\View\PageViewModel;
 
     abstract class CollectionViewModel extends PageViewModel
     {

@@ -1,5 +1,5 @@
 <?php
-    namespace Theothernic\Datamodels;
+    namespace Bearlovescode\Datamodels;
 
     abstract class DataModel
     {

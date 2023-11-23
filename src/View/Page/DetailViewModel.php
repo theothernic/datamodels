@@ -1,9 +1,10 @@
 <?php
-    namespace Theothernic\Datamodels\View\Page;
+    namespace Bearlovescode\Datamodels\View\Page;
 
-    use Theothernic\Datamodels\View\PageViewModel;
+    use Bearlovescode\Datamodels\View\PageViewModel;
 
     abstract class DetailViewModel extends PageViewModel
     {
         public object $record;
+        public object|array $records;
     }

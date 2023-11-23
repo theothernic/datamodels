@@ -1,7 +1,7 @@
 <?php
-    namespace Theothernic\Datamodels\View;
+    namespace Bearlovescode\Datamodels\View;
 
-    use Theothernic\Datamodels\DataModel;
+    use Bearlovescode\Datamodels\DataModel;
 
     abstract class ViewModel extends DataModel
     {

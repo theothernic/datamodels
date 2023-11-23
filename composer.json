@@ -1,15 +1,15 @@
 {
-    "name": "theothernic/datamodels",
+    "name": "bearlovescode/datamodels",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Theothernic\\Datamodels\\": "src/"
+            "Bearlovescode\\Datamodels\\": "src/"
         }
     },
     "authors": [
         {
             "name": "Nic Barr",
-            "email": "code@nicholasbarr.net"
+            "email": "code@bearlovescode.com"
         }
     ],
     "require": {

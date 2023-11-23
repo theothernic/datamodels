@@ -1,5 +1,5 @@
 <?php
-    namespace Theothernic\Datamodels\View;
+    namespace Bearlovescode\Datamodels\View;
 
     abstract class PageViewModel extends ViewModel
     {
