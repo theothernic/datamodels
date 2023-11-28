@@ -1,5 +1,5 @@
 <?php
-    namespace Theothernic\Datamodels\Tokens;
+    namespace Bearlovescode\Datamodels\Tokens;
 
 
     use Bearlovescode\Datamodels\DataModel;

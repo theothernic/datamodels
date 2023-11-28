@@ -3,8 +3,7 @@
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Bearlovescode\\Datamodels\\": "src/",
-            "Theothernic\\Datamodels\\": "src/"
+            "Bearlovescode\\Datamodels\\": "src/"
         }
     },
     "authors": [
